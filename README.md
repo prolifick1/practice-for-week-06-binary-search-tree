@@ -78,4 +78,4 @@ prints the current node value. The example tree would print out `3, 5, 4`.
 Read through the specs in `test/binary-search-tree-spec.js` for more details.
 
 
-[starter]: https://github.com/appacademy-starters/practice-for-week-06-binary-search-tree-guided-practice
+[starter]: https://github.com/appacademy-starters/practice-for-week-06-binary-search-tree-guided-practicestarter from appacademy/practice-for-week-06-binary-search-tree
