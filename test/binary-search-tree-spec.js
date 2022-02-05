@@ -170,7 +170,7 @@ describe('Binary Search Tree', () => {
 
     });
   });
-  describe('Part 2: search', () => {
+  xdescribe('Part 2: search', () => {
     beforeEach(function () {
 
       bst = new BinarySearchTree();
@@ -204,7 +204,7 @@ describe('Binary Search Tree', () => {
 
     });
   });
-  describe('Part 3: recursive traversals', () => {
+  xdescribe('Part 3: recursive traversals', () => {
     let consoleSpy;
 
     beforeEach(function () {
@@ -276,7 +276,7 @@ describe('Binary Search Tree', () => {
   
   });
   
-  describe('Part 4: iterative traversals', () => {
+  xdescribe('Part 4: iterative traversals', () => {
     let consoleSpy;
 
     beforeEach(function () {
